@@ -7,3 +7,6 @@ console.log(b);
 
 var c = 9;
 console.log(c);
+
+var d = 12;
+console.log(d);
